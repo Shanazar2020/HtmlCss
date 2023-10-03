@@ -1,0 +1,26 @@
+.card {
+    color: #222222;
+    background: lightgray;
+    width: 300px;
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 4px solid #222222;
+    border-radius: 20px;
+
+    padding: 20px;
+}
+
+.btn {
+    color: #0f1419;
+    border: 1px solid #cfd9de;
+    background: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    font-weight: bold;
+}
