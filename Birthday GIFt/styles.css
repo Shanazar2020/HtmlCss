@@ -74,7 +74,7 @@ h1, h2, h3, h4, p {
 
 #genius-gif:hover {
     background-image: url("images/genius.gif");
-    background-size: cover;
+    background-size: contain;
 }
 
 #badass-gif:hover {
